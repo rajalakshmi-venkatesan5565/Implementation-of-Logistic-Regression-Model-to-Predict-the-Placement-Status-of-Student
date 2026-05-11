@@ -74,6 +74,7 @@ cm_display.plot()
 ```
 
 ## Output:
+
 <img width="832" height="580" alt="WhatsApp Image 2026-05-11 at 3 56 41 PM" src="https://github.com/user-attachments/assets/33c85673-2448-47cb-8802-b2c549003775" />
 
 <img width="588" height="344" alt="WhatsApp Image 2026-05-11 at 3 56 52 PM" src="https://github.com/user-attachments/assets/0e6c2705-2837-42aa-9468-8fed35084579" />
